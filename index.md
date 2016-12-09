@@ -6,7 +6,7 @@ status: editors-draft
 ---
 
   <h2 id="introduction" class="no-display">Introduction</h2>
-  <p><em>Accessibility, usability, and inclusion</em> are closely related aspects in creating a web that works for everyone. Their goals, approaches, and guidelines overlap significantly. When designing and developing websites and applications, it is most effective to address them together.</p>
+  <p><em>Accessibility, usability, and inclusion</em> are closely related aspects in creating a web that works for everyone - a web for all. Their goals, approaches, and guidelines overlap significantly. When designing and developing websites and applications, it is most effective to address them together.</p>
   <p>There are a few situations when it's important to focus specifically on one aspect, such as when researching accessibility needs of people with disabilities to help develop standards and policies.</p>
   <p class="listintro">This article briefly:</p>
   <ul class="listafterpul">
